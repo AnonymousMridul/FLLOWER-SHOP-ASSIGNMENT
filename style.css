@@ -1,0 +1,240 @@
+
+*{
+    margin: 0px;
+}
+
+
+     .banner{
+        display: flex;
+        background-color: #f8e5e9 ;
+        align-items: center;
+        
+     }
+    
+    .banner .picone {
+        width: 635px;
+        height: 800px;
+    }
+.htag h1 {
+    margin: 0px 220px;
+    display: flex;
+width: 708px;
+flex-direction: column;
+flex-shrink: 0;
+color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.htag p{
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin: 10px 30px 30px 230px;
+
+}
+
+ 
+.btn{
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+margin: 0px 230px;
+color: #f8e5e9;
+
+}
+
+
+.second h1 {
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.second p { 
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+
+}
+.second{
+    text-align: center;
+    margin-top: 60px;
+}
+.png-6{
+    width: 200px;
+height: 300px;
+padding: 50px;
+
+border-radius: 300px 300px 0px 0px;
+border-top-right-radius: 130px;
+border-top-left-radius: 130px;
+background: rgb(245, 191, 200) ;
+padding-bottom: 0%;
+}
+.featured{
+    
+    justify-content: center;
+    display: flex;
+    margin-left: 50px;
+}
+.png-5{
+    width: 200px;
+height: 300px;
+padding: 50px;
+
+border-radius: 300px 300px 0px 0px;
+border-top-right-radius: 130px;
+border-top-left-radius: 130px;
+padding-bottom: 0%;
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+padding-bottom: 5px;
+}
+.png-7{
+    width: 200px;
+height: 300px;
+padding: 50px;
+
+border-radius: 300px 300px 0px 0px;
+border-top-right-radius: 130px;
+border-top-left-radius: 130px;
+padding-bottom: 0%;
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
+.caption{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px; /* 145.833% */
+text-decoration-line: underline;
+}
+
+.container{
+    display: flex;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px; /* 145.833% */
+width: 930px;
+height: 150px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+justify-content: center;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 40px;
+margin: auto;
+
+}
+
+.hotdeal{
+    width: 1825px;
+height: 620px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+justify-content: center;
+}
+.hotdiv{
+    padding-top: 200px;
+    align-items:left;
+}
+.hotdiv button {
+  margin-left: 70px;
+}
+.png8{
+    width: 318px;
+    height: 420px;
+    flex-shrink: 0;
+    padding-top: 100px;
+    padding-left: 100px;
+
+}
+
+.instain{
+    justify-content: center;
+    padding-left: 700px;
+     
+}
+
+.instapic{
+    display: flex;
+    justify-content: center;
+}
+
+.lat-deal{
+    justify-content: center;
+    padding-left:700px ;
+    margin-right: 500px;
+    
+    width: 1125px;
+height: 449px;
+flex-shrink: 0;
+border-radius: 8px;
+background: url('Flower\ Asset/rectangle 9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+
+}
+
+.email{
+    width: 650px;
+    height: 60px;
+    margin-top: 120px;
+    text-align: center;
+    
+    
+}
+
+.lnews{
+    background:url('./Flower\ Asset/pexels-photo-414660.webp')  ;
+    height: 600px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 80px;
+
+}
+
+.black{
+    background-color: black;
+    width: 1824px;
+height: 449px;
+flex-shrink: 0;
+}
+
+#paralast{
+    width: 625px;
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+padding-top: 30px;
+}
+
+.lastpart{
+    justify-content: center;
+    padding-top: 70px;
+    padding-left: 550px;
+}
